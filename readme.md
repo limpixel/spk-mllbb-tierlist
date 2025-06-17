@@ -10,30 +10,33 @@
 ---
 ## Anggota
 
+## Anggota
+
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/100" width="100" /><br />
+      <img src="https://i.imgur.com/4AiXzf8.jpeg" width="100" /><br />
       <b>Nama 1</b><br />
       Deskripsi singkat 1
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/100" width="100" /><br />
+      <img src="https://i.imgur.com/4AiXzf8.jpeg" width="100" /><br />
       <b>Nama 2</b><br />
       Deskripsi singkat 2
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/100" width="100" /><br />
+      <img src="https://i.imgur.com/4AiXzf8.jpeg" width="100" /><br />
       <b>Nama 3</b><br />
       Deskripsi singkat 3
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/100" width="100" /><br />
+      <img src="https://i.imgur.com/4AiXzf8.jpeg" width="100" /><br />
       <b>Nama 4</b><br />
       Deskripsi singkat 4
     </td>
   </tr>
 </table>
+
 
 
 
