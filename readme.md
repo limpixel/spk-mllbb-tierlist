@@ -51,4 +51,4 @@
 > notes : project nya sudah di fix di vercel, karna demi me-miminalisir error yang terjadi, jadi saya fix codingnya langsung di vercel hosting nya sendiri.
 
 ## Link Project 
-[https://mlbb.gg/](link)
+[link project](https://mlbb.gg/)
