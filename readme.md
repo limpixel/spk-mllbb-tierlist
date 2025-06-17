@@ -15,29 +15,29 @@
       <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
         <img src="/readme-file/lim.png" style="width:100%; height:100%; object-fit:cover; display:block;" />
       </div><br />
-      <b>Nama 1</b><br />
-      Deskripsi singkat 1
+      <b>Abdul Halim</b><br />
+      Web Developing
     </td>
     <td align="center" width="25%">
       <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
-        <img src="/readme-file/lim.png" style="width:100%; height:100%; object-fit:cover; display:block;" />
+        <img src="/readme-file/danu.jpeg" style="width:100%; height:100%; object-fit:cover; display:block;" />
       </div><br />
-      <b>Nama 2</b><br />
-      Deskripsi singkat 2
+      <b>Anugerah Rachmat Indriansyah</b><br />
+    Develop Rumus EDAS
     </td>
     <td align="center" width="25%">
       <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
-        <img src="/readme-file/lim.png" style="width:100%; height:100%; object-fit:cover; display:block;" />
+        <img src="/readme-file/rangga.jpeg" style="width:100%; height:100%; object-fit:cover; display:block;" />
       </div><br />
-      <b>Nama 3</b><br />
-      Deskripsi singkat 3
+      <b>Muhammad Rangga Fabiano Martian</b><br />
+      Develop Rumus EDAS In SpreadSheet
     </td>
     <td align="center" width="25%">
       <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
-        <img src="/readme-file/lim.png" style="width:100%; height:100%; object-fit:cover; display:block;" />
+        <img src="/readme-file/nael.jpeg" style="width:100%; height:100%; object-fit:cover; display:block;" />
       </div><br />
-      <b>Nama 4</b><br />
-      Deskripsi singkat 4
+      <b>Nail Rizqi</b><br />
+      Developing Website and Dokumentasi
     </td>
   </tr>
 </table>
