@@ -9,28 +9,33 @@
 
 ---
 ## Anggota
-
-## Anggota
-
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="/readme-file/lim.png" width="100" /><br />
+      <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+        <img src="/readme-file/lim.png" style="width:100%; height:100%; object-fit:cover; display:block;" />
+      </div><br />
       <b>Nama 1</b><br />
       Deskripsi singkat 1
     </td>
     <td align="center" width="25%">
-      <img src="/readme-file/lim.png" width="100" /><br />
+      <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+        <img src="/readme-file/lim.png" style="width:100%; height:100%; object-fit:cover; display:block;" />
+      </div><br />
       <b>Nama 2</b><br />
       Deskripsi singkat 2
     </td>
     <td align="center" width="25%">
-      <img src="/readme-file/lim.png" width="100" /><br />
+      <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+        <img src="/readme-file/lim.png" style="width:100%; height:100%; object-fit:cover; display:block;" />
+      </div><br />
       <b>Nama 3</b><br />
       Deskripsi singkat 3
     </td>
     <td align="center" width="25%">
-      <img src="/readme-file/lim.png" width="100" /><br />
+      <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+        <img src="/readme-file/lim.png" style="width:100%; height:100%; object-fit:cover; display:block;" />
+      </div><br />
       <b>Nama 4</b><br />
       Deskripsi singkat 4
     </td>
@@ -42,7 +47,7 @@
 
 ## Struktur File 
 - UNTUK FRONTEND ADA DI FILE '**file/frontend**'
-- Sedangkan backend ada di '**file/home.html & file/statistics.html**'
+- UNTUK BACKEND ADA DI FILE '**file/home.html & file/statistics.html**'
 > notes : project nya sudah di fix di vercel, karna demi me-miminalisir error yang terjadi, jadi saya fix codingnya langsung di vercel hosting nya sendiri.
 
 ## Link Project 
